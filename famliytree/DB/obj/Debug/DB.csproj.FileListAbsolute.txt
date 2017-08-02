@@ -16,3 +16,12 @@ C:\source code\service\famliytree\DB\bin\Debug\Models.pdb
 C:\source code\service\famliytree\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache
 C:\source code\service\famliytree\DB\obj\Debug\DB.dll
 C:\source code\service\famliytree\DB\obj\Debug\DB.pdb
+C:\mygitspace\mygitworkspace\famliytree\DB\bin\Debug\DB.dll.config
+C:\mygitspace\mygitworkspace\famliytree\DB\bin\Debug\DB.dll
+C:\mygitspace\mygitworkspace\famliytree\DB\bin\Debug\DB.pdb
+C:\mygitspace\mygitworkspace\famliytree\DB\bin\Debug\Models.dll
+C:\mygitspace\mygitworkspace\famliytree\DB\bin\Debug\MySql.Data.dll
+C:\mygitspace\mygitworkspace\famliytree\DB\bin\Debug\Models.pdb
+C:\mygitspace\mygitworkspace\famliytree\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache
+C:\mygitspace\mygitworkspace\famliytree\DB\obj\Debug\DB.dll
+C:\mygitspace\mygitworkspace\famliytree\DB\obj\Debug\DB.pdb

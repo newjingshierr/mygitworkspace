@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaService", "MediaService\MediaService.csproj", "{A6CD9DC3-DA1F-4F5E-9A27-5BE0D34B42D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SP", "SP\SP.csproj", "{4707B312-09F1-4C7F-A6D3-BF7F3FD76091}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{A6CD9DC3-DA1F-4F5E-9A27-5BE0D34B42D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6CD9DC3-DA1F-4F5E-9A27-5BE0D34B42D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6CD9DC3-DA1F-4F5E-9A27-5BE0D34B42D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4707B312-09F1-4C7F-A6D3-BF7F3FD76091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4707B312-09F1-4C7F-A6D3-BF7F3FD76091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4707B312-09F1-4C7F-A6D3-BF7F3FD76091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4707B312-09F1-4C7F-A6D3-BF7F3FD76091}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

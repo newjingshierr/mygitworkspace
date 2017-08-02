@@ -1,1 +1,24 @@
 C:\source code\service\famliytree\MediaService\obj\Debug\MediaService.csprojResolveAssemblyReference.cache
+C:\source code\service\famliytree\MediaService\bin\Debug\MediaService.exe.config
+C:\source code\service\famliytree\MediaService\bin\Debug\MediaService.exe
+C:\source code\service\famliytree\MediaService\bin\Debug\MediaService.pdb
+C:\source code\service\famliytree\MediaService\bin\Debug\DB.dll
+C:\source code\service\famliytree\MediaService\bin\Debug\MySql.Data.dll
+C:\source code\service\famliytree\MediaService\bin\Debug\Models.dll
+C:\source code\service\famliytree\MediaService\bin\Debug\DB.pdb
+C:\source code\service\famliytree\MediaService\bin\Debug\DB.dll.config
+C:\source code\service\famliytree\MediaService\bin\Debug\Models.pdb
+C:\source code\service\famliytree\MediaService\obj\Debug\MediaService.exe
+C:\source code\service\famliytree\MediaService\obj\Debug\MediaService.pdb
+C:\mygitspace\mygitworkspace\famliytree\MediaService\bin\Debug\MediaService.exe.config
+C:\mygitspace\mygitworkspace\famliytree\MediaService\bin\Debug\MediaService.exe
+C:\mygitspace\mygitworkspace\famliytree\MediaService\bin\Debug\MediaService.pdb
+C:\mygitspace\mygitworkspace\famliytree\MediaService\bin\Debug\DB.dll
+C:\mygitspace\mygitworkspace\famliytree\MediaService\bin\Debug\MySql.Data.dll
+C:\mygitspace\mygitworkspace\famliytree\MediaService\bin\Debug\Models.dll
+C:\mygitspace\mygitworkspace\famliytree\MediaService\bin\Debug\DB.pdb
+C:\mygitspace\mygitworkspace\famliytree\MediaService\bin\Debug\DB.dll.config
+C:\mygitspace\mygitworkspace\famliytree\MediaService\bin\Debug\Models.pdb
+C:\mygitspace\mygitworkspace\famliytree\MediaService\obj\Debug\MediaService.csprojResolveAssemblyReference.cache
+C:\mygitspace\mygitworkspace\famliytree\MediaService\obj\Debug\MediaService.exe
+C:\mygitspace\mygitworkspace\famliytree\MediaService\obj\Debug\MediaService.pdb
