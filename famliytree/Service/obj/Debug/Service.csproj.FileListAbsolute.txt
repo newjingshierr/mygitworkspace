@@ -10,6 +10,5 @@ C:\source code\service\famliytree\Service\obj\Debug\Service.dll
 C:\source code\service\famliytree\Service\obj\Debug\Service.pdb
 C:\mygitspace\mygitworkspace\famliytree\Service\bin\Debug\Service.dll
 C:\mygitspace\mygitworkspace\famliytree\Service\bin\Debug\Service.pdb
-C:\mygitspace\mygitworkspace\famliytree\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
 C:\mygitspace\mygitworkspace\famliytree\Service\obj\Debug\Service.dll
 C:\mygitspace\mygitworkspace\famliytree\Service\obj\Debug\Service.pdb

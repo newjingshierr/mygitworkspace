@@ -10,6 +10,5 @@ C:\source code\service\famliytree\Business\obj\Debug\Business.dll
 C:\source code\service\famliytree\Business\obj\Debug\Business.pdb
 C:\mygitspace\mygitworkspace\famliytree\Business\bin\Debug\Business.dll
 C:\mygitspace\mygitworkspace\famliytree\Business\bin\Debug\Business.pdb
-C:\mygitspace\mygitworkspace\famliytree\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
 C:\mygitspace\mygitworkspace\famliytree\Business\obj\Debug\Business.dll
 C:\mygitspace\mygitworkspace\famliytree\Business\obj\Debug\Business.pdb
