@@ -1,0 +1,18 @@
+C:\enzoworkspace\famliytree\DB\bin\Debug\DB.dll.config
+C:\enzoworkspace\famliytree\DB\bin\Debug\DB.dll
+C:\enzoworkspace\famliytree\DB\bin\Debug\DB.pdb
+C:\enzoworkspace\famliytree\DB\bin\Debug\MySql.Data.dll
+C:\enzoworkspace\famliytree\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache
+C:\enzoworkspace\famliytree\DB\obj\Debug\DB.dll
+C:\enzoworkspace\famliytree\DB\obj\Debug\DB.pdb
+C:\enzoworkspace\famliytree\DB\bin\Debug\Models.dll
+C:\enzoworkspace\famliytree\DB\bin\Debug\Models.pdb
+C:\source code\service\famliytree\DB\bin\Debug\DB.dll.config
+C:\source code\service\famliytree\DB\bin\Debug\DB.dll
+C:\source code\service\famliytree\DB\bin\Debug\DB.pdb
+C:\source code\service\famliytree\DB\bin\Debug\Models.dll
+C:\source code\service\famliytree\DB\bin\Debug\MySql.Data.dll
+C:\source code\service\famliytree\DB\bin\Debug\Models.pdb
+C:\source code\service\famliytree\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache
+C:\source code\service\famliytree\DB\obj\Debug\DB.dll
+C:\source code\service\famliytree\DB\obj\Debug\DB.pdb

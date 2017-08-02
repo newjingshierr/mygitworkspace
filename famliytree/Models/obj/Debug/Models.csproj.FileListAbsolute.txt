@@ -1,0 +1,10 @@
+C:\enzoworkspace\famliytree\Models\bin\Debug\Models.dll
+C:\enzoworkspace\famliytree\Models\bin\Debug\Models.pdb
+C:\enzoworkspace\famliytree\Models\obj\Debug\Models.dll
+C:\enzoworkspace\famliytree\Models\obj\Debug\Models.pdb
+C:\enzoworkspace\famliytree\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\source code\service\famliytree\Models\bin\Debug\Models.dll
+C:\source code\service\famliytree\Models\bin\Debug\Models.pdb
+C:\source code\service\famliytree\Models\obj\Debug\Models.dll
+C:\source code\service\famliytree\Models\obj\Debug\Models.pdb
+C:\source code\service\famliytree\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache

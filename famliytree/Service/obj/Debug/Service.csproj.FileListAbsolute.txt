@@ -1,0 +1,10 @@
+C:\enzoworkspace\famliytree\Service\bin\Debug\Service.dll
+C:\enzoworkspace\famliytree\Service\bin\Debug\Service.pdb
+C:\enzoworkspace\famliytree\Service\obj\Debug\Service.dll
+C:\enzoworkspace\famliytree\Service\obj\Debug\Service.pdb
+C:\enzoworkspace\famliytree\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\source code\service\famliytree\Service\bin\Debug\Service.dll
+C:\source code\service\famliytree\Service\bin\Debug\Service.pdb
+C:\source code\service\famliytree\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\source code\service\famliytree\Service\obj\Debug\Service.dll
+C:\source code\service\famliytree\Service\obj\Debug\Service.pdb

@@ -1,0 +1,150 @@
+C:\enzoworkspace\famliytree\famliytree\bin\roslyn\csc.exe
+C:\enzoworkspace\famliytree\famliytree\bin\roslyn\csc.exe.config
+C:\enzoworkspace\famliytree\famliytree\bin\roslyn\csc.rsp
+C:\enzoworkspace\famliytree\famliytree\bin\roslyn\csi.exe
+C:\enzoworkspace\famliytree\famliytree\bin\roslyn\csi.rsp
+C:\enzoworkspace\famliytree\famliytree\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\enzoworkspace\famliytree\famliytree\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\enzoworkspace\famliytree\famliytree\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\enzoworkspace\famliytree\famliytree\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\enzoworkspace\famliytree\famliytree\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\enzoworkspace\famliytree\famliytree\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\enzoworkspace\famliytree\famliytree\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\enzoworkspace\famliytree\famliytree\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\enzoworkspace\famliytree\famliytree\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\enzoworkspace\famliytree\famliytree\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\enzoworkspace\famliytree\famliytree\bin\roslyn\System.AppContext.dll
+C:\enzoworkspace\famliytree\famliytree\bin\roslyn\System.Collections.Immutable.dll
+C:\enzoworkspace\famliytree\famliytree\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\enzoworkspace\famliytree\famliytree\bin\roslyn\System.IO.FileSystem.dll
+C:\enzoworkspace\famliytree\famliytree\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\enzoworkspace\famliytree\famliytree\bin\roslyn\System.Reflection.Metadata.dll
+C:\enzoworkspace\famliytree\famliytree\bin\roslyn\vbc.exe
+C:\enzoworkspace\famliytree\famliytree\bin\roslyn\vbc.exe.config
+C:\enzoworkspace\famliytree\famliytree\bin\roslyn\vbc.rsp
+C:\enzoworkspace\famliytree\famliytree\bin\roslyn\VBCSCompiler.exe
+C:\enzoworkspace\famliytree\famliytree\bin\roslyn\VBCSCompiler.exe.config
+C:\enzoworkspace\famliytree\famliytree\bin\famliytree.dll.config
+C:\enzoworkspace\famliytree\famliytree\bin\famliytree.xml
+C:\enzoworkspace\famliytree\famliytree\bin\famliytree.dll
+C:\enzoworkspace\famliytree\famliytree\bin\famliytree.pdb
+C:\enzoworkspace\famliytree\famliytree\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\enzoworkspace\famliytree\famliytree\bin\Microsoft.Web.Infrastructure.dll
+C:\enzoworkspace\famliytree\famliytree\bin\Newtonsoft.Json.dll
+C:\enzoworkspace\famliytree\famliytree\bin\Swagger.Net.dll
+C:\enzoworkspace\famliytree\famliytree\bin\Swashbuckle.Core.dll
+C:\enzoworkspace\famliytree\famliytree\bin\System.Net.Http.Formatting.dll
+C:\enzoworkspace\famliytree\famliytree\bin\System.Web.Http.dll
+C:\enzoworkspace\famliytree\famliytree\bin\System.Web.Http.WebHost.dll
+C:\enzoworkspace\famliytree\famliytree\bin\WebActivator.dll
+C:\enzoworkspace\famliytree\famliytree\bin\WebActivatorEx.dll
+C:\enzoworkspace\famliytree\famliytree\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\enzoworkspace\famliytree\famliytree\bin\Swagger.Net.pdb
+C:\enzoworkspace\famliytree\famliytree\bin\Swagger.Net.xml
+C:\enzoworkspace\famliytree\famliytree\bin\Newtonsoft.Json.xml
+C:\enzoworkspace\famliytree\famliytree\bin\System.Net.Http.Formatting.xml
+C:\enzoworkspace\famliytree\famliytree\bin\System.Web.Http.xml
+C:\enzoworkspace\famliytree\famliytree\bin\System.Web.Http.WebHost.xml
+C:\enzoworkspace\famliytree\famliytree\obj\Debug\famliytree.dll
+C:\enzoworkspace\famliytree\famliytree\obj\Debug\famliytree.pdb
+C:\enzoworkspace\famliytree\famliytree\obj\Debug\famliytree.csprojResolveAssemblyReference.cache
+C:\enzoworkspace\famliytree\famliytree\bin\Antlr3.Runtime.dll
+C:\enzoworkspace\famliytree\famliytree\bin\System.Web.Helpers.dll
+C:\enzoworkspace\famliytree\famliytree\bin\System.Web.Mvc.dll
+C:\enzoworkspace\famliytree\famliytree\bin\System.Web.Optimization.dll
+C:\enzoworkspace\famliytree\famliytree\bin\System.Web.Razor.dll
+C:\enzoworkspace\famliytree\famliytree\bin\System.Web.WebPages.Deployment.dll
+C:\enzoworkspace\famliytree\famliytree\bin\System.Web.WebPages.dll
+C:\enzoworkspace\famliytree\famliytree\bin\System.Web.WebPages.Razor.dll
+C:\enzoworkspace\famliytree\famliytree\bin\WebGrease.dll
+C:\enzoworkspace\famliytree\famliytree\bin\Antlr3.Runtime.pdb
+C:\enzoworkspace\famliytree\famliytree\bin\System.Web.Helpers.xml
+C:\enzoworkspace\famliytree\famliytree\bin\System.Web.Mvc.xml
+C:\enzoworkspace\famliytree\famliytree\bin\System.Web.Optimization.xml
+C:\enzoworkspace\famliytree\famliytree\bin\System.Web.Razor.xml
+C:\enzoworkspace\famliytree\famliytree\bin\System.Web.WebPages.xml
+C:\enzoworkspace\famliytree\famliytree\bin\System.Web.WebPages.Deployment.xml
+C:\enzoworkspace\famliytree\famliytree\bin\System.Web.WebPages.Razor.xml
+C:\enzoworkspace\famliytree\famliytree\bin\Business.dll
+C:\enzoworkspace\famliytree\famliytree\bin\DB.dll
+C:\enzoworkspace\famliytree\famliytree\bin\Models.dll
+C:\enzoworkspace\famliytree\famliytree\bin\MySql.Data.dll
+C:\enzoworkspace\famliytree\famliytree\bin\Business.pdb
+C:\enzoworkspace\famliytree\famliytree\bin\DB.pdb
+C:\enzoworkspace\famliytree\famliytree\bin\DB.dll.config
+C:\enzoworkspace\famliytree\famliytree\bin\Models.pdb
+C:\source code\service\famliytree\famliytree\bin\roslyn\csc.exe
+C:\source code\service\famliytree\famliytree\bin\roslyn\csc.exe.config
+C:\source code\service\famliytree\famliytree\bin\roslyn\csc.rsp
+C:\source code\service\famliytree\famliytree\bin\roslyn\csi.exe
+C:\source code\service\famliytree\famliytree\bin\roslyn\csi.rsp
+C:\source code\service\famliytree\famliytree\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\source code\service\famliytree\famliytree\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\source code\service\famliytree\famliytree\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\source code\service\famliytree\famliytree\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\source code\service\famliytree\famliytree\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\source code\service\famliytree\famliytree\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\source code\service\famliytree\famliytree\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\source code\service\famliytree\famliytree\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\source code\service\famliytree\famliytree\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\source code\service\famliytree\famliytree\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\source code\service\famliytree\famliytree\bin\roslyn\System.AppContext.dll
+C:\source code\service\famliytree\famliytree\bin\roslyn\System.Collections.Immutable.dll
+C:\source code\service\famliytree\famliytree\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\source code\service\famliytree\famliytree\bin\roslyn\System.IO.FileSystem.dll
+C:\source code\service\famliytree\famliytree\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\source code\service\famliytree\famliytree\bin\roslyn\System.Reflection.Metadata.dll
+C:\source code\service\famliytree\famliytree\bin\roslyn\vbc.exe
+C:\source code\service\famliytree\famliytree\bin\roslyn\vbc.exe.config
+C:\source code\service\famliytree\famliytree\bin\roslyn\vbc.rsp
+C:\source code\service\famliytree\famliytree\bin\roslyn\VBCSCompiler.exe
+C:\source code\service\famliytree\famliytree\bin\roslyn\VBCSCompiler.exe.config
+C:\source code\service\famliytree\famliytree\bin\famliytree.dll.config
+C:\source code\service\famliytree\famliytree\bin\famliytree.xml
+C:\source code\service\famliytree\famliytree\bin\famliytree.dll
+C:\source code\service\famliytree\famliytree\bin\famliytree.pdb
+C:\source code\service\famliytree\famliytree\bin\Antlr3.Runtime.dll
+C:\source code\service\famliytree\famliytree\bin\Business.dll
+C:\source code\service\famliytree\famliytree\bin\DB.dll
+C:\source code\service\famliytree\famliytree\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\source code\service\famliytree\famliytree\bin\Microsoft.Web.Infrastructure.dll
+C:\source code\service\famliytree\famliytree\bin\Models.dll
+C:\source code\service\famliytree\famliytree\bin\Newtonsoft.Json.dll
+C:\source code\service\famliytree\famliytree\bin\Swagger.Net.dll
+C:\source code\service\famliytree\famliytree\bin\Swashbuckle.Core.dll
+C:\source code\service\famliytree\famliytree\bin\System.Net.Http.Formatting.dll
+C:\source code\service\famliytree\famliytree\bin\System.Web.Helpers.dll
+C:\source code\service\famliytree\famliytree\bin\System.Web.Http.dll
+C:\source code\service\famliytree\famliytree\bin\System.Web.Http.WebHost.dll
+C:\source code\service\famliytree\famliytree\bin\System.Web.Mvc.dll
+C:\source code\service\famliytree\famliytree\bin\System.Web.Optimization.dll
+C:\source code\service\famliytree\famliytree\bin\System.Web.Razor.dll
+C:\source code\service\famliytree\famliytree\bin\System.Web.WebPages.Deployment.dll
+C:\source code\service\famliytree\famliytree\bin\System.Web.WebPages.dll
+C:\source code\service\famliytree\famliytree\bin\System.Web.WebPages.Razor.dll
+C:\source code\service\famliytree\famliytree\bin\WebActivator.dll
+C:\source code\service\famliytree\famliytree\bin\WebActivatorEx.dll
+C:\source code\service\famliytree\famliytree\bin\WebGrease.dll
+C:\source code\service\famliytree\famliytree\bin\MySql.Data.dll
+C:\source code\service\famliytree\famliytree\bin\Business.pdb
+C:\source code\service\famliytree\famliytree\bin\DB.pdb
+C:\source code\service\famliytree\famliytree\bin\DB.dll.config
+C:\source code\service\famliytree\famliytree\bin\Models.pdb
+C:\source code\service\famliytree\famliytree\bin\Antlr3.Runtime.pdb
+C:\source code\service\famliytree\famliytree\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\source code\service\famliytree\famliytree\bin\Swagger.Net.pdb
+C:\source code\service\famliytree\famliytree\bin\Swagger.Net.xml
+C:\source code\service\famliytree\famliytree\bin\System.Web.Helpers.xml
+C:\source code\service\famliytree\famliytree\bin\System.Web.Mvc.xml
+C:\source code\service\famliytree\famliytree\bin\System.Web.Optimization.xml
+C:\source code\service\famliytree\famliytree\bin\System.Web.Razor.xml
+C:\source code\service\famliytree\famliytree\bin\System.Web.WebPages.xml
+C:\source code\service\famliytree\famliytree\bin\System.Web.WebPages.Deployment.xml
+C:\source code\service\famliytree\famliytree\bin\System.Web.WebPages.Razor.xml
+C:\source code\service\famliytree\famliytree\bin\Newtonsoft.Json.xml
+C:\source code\service\famliytree\famliytree\bin\System.Net.Http.Formatting.xml
+C:\source code\service\famliytree\famliytree\bin\System.Web.Http.xml
+C:\source code\service\famliytree\famliytree\bin\System.Web.Http.WebHost.xml
+C:\source code\service\famliytree\famliytree\obj\Debug\famliytree.csprojResolveAssemblyReference.cache
+C:\source code\service\famliytree\famliytree\obj\Debug\famliytree.dll
+C:\source code\service\famliytree\famliytree\obj\Debug\famliytree.pdb

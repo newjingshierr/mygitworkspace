@@ -1,0 +1,1 @@
+C:\source code\service\famliytree\MediaService\obj\Debug\MediaService.csprojResolveAssemblyReference.cache
